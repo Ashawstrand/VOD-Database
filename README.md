@@ -1,4 +1,4 @@
-Video On Demand - Movie Rental Business
+Video On Demand - Movie Rental Database
 --
 
 
