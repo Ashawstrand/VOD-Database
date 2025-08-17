@@ -12,9 +12,9 @@ Phase 2:
 
 
 Phase 3:
--Created 7 SQL file reports and queries implemented using PgAdmin and VSCode
--Created purposeful reports that provide business insights, value, and incorporate all database tables
--Implemented SQL concepts and syntax with Joins, single-row functions, grouping aggregate functions, subqueries, and OLAP.
+- Created 7 SQL file reports and queries implemented using PgAdmin and VSCode
+- Created purposeful reports that provide business insights, value, and incorporate all database tables
+- Implemented SQL concepts and syntax with Joins, single-row functions, grouping aggregate functions, subqueries, and OLAP.
 
   
 
