@@ -1,3 +1,7 @@
+Video On Demand - Movie Rental Business
+--
+
+
 Description: The purpose of this project is to implement Video On Demand movie rental business rules into database models, create the database, populate the database, and run business reports using Postgres SQL queries.
 
 Phase 1:
